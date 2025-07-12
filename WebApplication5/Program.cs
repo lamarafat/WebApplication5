@@ -3,6 +3,7 @@ namespace WebApplication5
 {
     public class Program
     {
+        //comment for commit
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
